@@ -2,7 +2,7 @@ const Web3 = require ('web3');
 const Accounts = require('web3-eth-accounts');
 const accounts = new Accounts('ws://localhost:3030');
 
-// web3 provider stuff =====================================================================
+
 
 const web3 = new Web3(new Web3.providers.HttpProvider("https://rinkeby.infura.io/"));
 
