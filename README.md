@@ -1,4 +1,4 @@
-# eth-wallet-gen
+# ethereum-wallet-gen
 
 <h5> This is an application that uses Infura as the API call to Generate a Ethereum Wallet Address. 
 Then take the Ethereum Wallet Data and parse it over via JSON to the MongoDB.
